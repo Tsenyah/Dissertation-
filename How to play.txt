@@ -1,0 +1,10 @@
+To initialise the game
+Navigate to build and select jigsaw
+on the main menu go to options and select your puzzle
+press play game
+
+
+all answers are to 2dp with rounding ie. 1.00 = 1 and 0.029 = 0.03
+once the puzzles are assembled press check the game. this will display if you have won the game or not
+
+Enjoy!
